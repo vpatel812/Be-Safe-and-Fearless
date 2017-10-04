@@ -1,0 +1,51 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient">
+
+    <ImageButton
+        android:id="@+id/imgred"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="40dp"
+        android:layout_gravity="center"
+        android:background="@drawable/redicon" />
+
+    <Button
+        android:id="@+id/btnabtred"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom|center"
+        android:background="@drawable/redabouticon"/>
+
+    <Button
+        android:id="@+id/btnsettingred"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom|right"
+        android:background="@drawable/redsettingicon" />
+
+    <Button
+        android:id="@+id/btnhomered"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom|left"
+        android:background="@drawable/redhomeicon" />
+
+    <TextView
+        android:id="@+id/txtredabt"
+        android:layout_width="276dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/redabout"
+        android:visibility="invisible"
+        android:textAppearance="@android:style/TextAppearance"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:textSize="18sp"
+        android:textStyle="normal|italic"
+        android:lineSpacingExtra="8sp"
+        android:textAlignment="viewStart" />
+
+</FrameLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="51dp"
+        android:layout_height="58dp"
+        android:layout_margin="5dp"
+        android:src="@drawable/contact"
+        android:layout_weight="0.07" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="129dp"
+        android:layout_height="66dp"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_weight="0.80">
+
+
+        <TextView
+            android:id="@+id/contact_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:text="Who am I"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="@dimen/activity_vertical_margin" />
+
+
+        <TextView
+            android:id="@+id/contact_number"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="000000000"
+            android:textAppearance="@android:style/TextAppearance"
+            android:layout_width="match_parent" />
+
+    </LinearLayout>
+        <Button
+            android:layout_width="92dp"
+            android:layout_height="70dp"
+            android:id="@+id/buttonAddEmail"
+            android:text="Add Email"
+            android:layout_gravity="right" />
+</LinearLayout>

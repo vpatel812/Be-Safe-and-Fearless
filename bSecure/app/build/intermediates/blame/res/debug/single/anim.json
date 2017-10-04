@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_out_to_left.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\anim\\push_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pull_in_from_left.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\anim\\pull_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\anim\\hold.xml"
+    }
+]

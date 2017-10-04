@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:5.0.89] F:\Android\Project\Android\bSecure\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:22.0.0] F:\Android\Project\Android\bSecure\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:23:22-64
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:24:5-77
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:24:22-75
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:25:5-97
+	android:required
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:25:72-95
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:25:19-71
+application
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:27:5-79:19
+MERGED from [com.google.android.gms:play-services:5.0.89] F:\Android\Project\Android\bSecure\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:22.0.0] F:\Android\Project\Android\bSecure\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:29:9-38
+	android:theme
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:31:9-40
+activity#com.bSecure.MainSplashScreen
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:34:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:39:27-74
+receiver#com.bSecure.WidgetActivity
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:42:9-51:20
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:42:19-60
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:43:13-46:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:44:17-45:80
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:45:21-77
+meta-data#android.appwidget.provider
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:48:13-50:57
+	android:resource
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:50:17-54
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:49:17-58
+receiver#com.bSecure.WidgetReceiver
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:53:9-70:20
+	android:label
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:54:13-54
+intent-filter#CHANGE_PICTUREG
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:56:13-58:29
+action#CHANGE_PICTUREG
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:57:17-58
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:57:25-55
+intent-filter#CHANGE_PICTUREY
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:60:13-62:29
+action#CHANGE_PICTUREY
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:61:17-58
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:61:25-55
+intent-filter#CHANGE_PICTURER
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:63:13-65:29
+action#CHANGE_PICTURER
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:64:17-58
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:64:25-55
+activity#com.bSecure.WidgetSettings
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:72:9-72
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:72:19-60
+activity#com.bSecure.UserRegistration
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:73:9-74
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:73:19-62
+activity#com.bSecure.ApplicationSettings
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:74:9-77
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:74:19-65
+service#com.bSecure.MessageSender
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:75:9-69
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:75:18-58
+service#com.bSecure.AudioRecorder
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:76:9-69
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:76:18-58
+service#com.bSecure.ShakeWakeupService
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:77:9-74
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:77:18-63
+meta-data#com.google.android.gms.version
+ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:78:9-122
+	android:value
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:78:66-119
+	android:name
+		ADDED from F:\Android\Project\Android\bSecure\app\src\main\AndroidManifest.xml:78:20-65

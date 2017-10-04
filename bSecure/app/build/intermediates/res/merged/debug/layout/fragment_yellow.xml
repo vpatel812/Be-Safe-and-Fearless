@@ -1,0 +1,51 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient">
+
+    <ImageButton
+        android:id="@+id/imgylw"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="40dp"
+        android:layout_gravity="center"
+        android:background="@drawable/yellowicon" />
+
+    <Button
+        android:id="@+id/btnabtylw"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom|center"
+        android:background="@drawable/yellow_about_icon" />
+
+    <Button
+        android:id="@+id/btnsettingylw"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom|right"
+        android:background="@drawable/yellow_settings_icon" />
+
+    <Button
+        android:id="@+id/btnhomeylw"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="bottom|left"
+        android:background="@drawable/yellow_home_icon" />
+
+    <TextView
+        android:id="@+id/txtyellowabt"
+        android:layout_width="285dp"
+        android:layout_height="82dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/yellowabout"
+        android:visibility="invisible"
+        android:textAppearance="@android:style/TextAppearance"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:textSize="18sp"
+        android:lineSpacingExtra="8sp"
+        android:textAlignment="viewStart"
+        android:textStyle="normal|italic" />
+
+</FrameLayout>

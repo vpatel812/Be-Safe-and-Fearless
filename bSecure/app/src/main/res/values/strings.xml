@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">BSecure</string>
+	<string name="action_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="fname">Enter User Name</string>
+	<string name="psw">Enter Password</string>
+	<string name="adrs">Enter Address</string>
+	<string name="phone">Enter Phone No</string>
+	<string name="sbmt">Submit</string>
+	<string name="rpage">Registration Page</string>
+	<string name="lpage">Login Page</string>
+	<string name="login">Login</string>
+	<string name="rlink">Not user? Register Here</string>
+	<string name="greenabout">
+	    This SOS button is for sending safety message to added 
+	    contact numbers with pre-defined message in
+	    configured time duration.
+	</string>
+	
+	<string name="yellowabout">
+	    This SOS button is for sending critical pre-defined message to added
+	    contact numbers and set time duration with current location.
+	</string>
+	
+	<string name="redabout">
+	    This SOS button is for sending trouble (for help) with pre-defined message to added
+	    contact numbers and set time duration with current location and
+		an email of recent recorded audio.
+	</string>
+	
+	<string name="help">
+		1. Add widget on home screen.
+		   \n2. Choose Mode.
+	   \n3. Set the message, contacts and time duration in setting page.
+	   \n4. Enable data for internet.
+		\n5. Enable GPS.
+	</string>
+</resources>

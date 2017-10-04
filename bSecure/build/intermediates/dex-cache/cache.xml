@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Android\Project\Android\bSecure\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\activation_63b834ad99f967fdb6d0b5b88c99b1843cb7a742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Project\Android\bSecure\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\additionnal_c83865ba89bb796dc8725502dc26ee894d440d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sudhi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_e37270a717fc33b0825c3db62ecc1333127ca675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Project\Android\bSecure\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-5.0.89_46b92c82c338ff02888bfd244937cdd1ab98bb24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Project\Android\bSecure\app\libs\google-play-services_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea923d54b5abcba085c4f54e1ac7e7859819e3e0">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\google-play-services_lib_24c079833246eac3b531b7c5df4854905c660d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Project\Android\bSecure\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\mail_d0aaccb4c579ea0bd359b307e6967722af94b530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Project\Android\bSecure\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_dfbfeddb492b4b6a4e99059407653cfd4666a87e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\Project\Android\bSecure\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\Android\Project\Android\bSecure\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_ffd71b2aa22f854f08bb1e33802da542f8bd0826.jar" />
+    </item>
+
+</items>

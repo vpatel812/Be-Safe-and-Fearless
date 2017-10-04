@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/alert_dark_frame"
+    android:orientation="horizontal" >
+
+    <ImageButton
+        android:id="@+id/greenbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/greenwidgeticon" />
+     <ImageButton
+        android:id="@+id/yellowbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/yellowwidgeticon" />
+      <ImageButton
+        android:id="@+id/redbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rediwidgetcon" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "com.bSecure"
+        minSdkVersion 18
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:22.0.0'
+    compile 'com.google.android.gms:play-services:5.0.89'
+    compile files('libs/google-play-services_lib.jar')
+    compile files('libs/mail.jar')
+    compile files('libs/additionnal.jar')
+    compile files('libs/activation.jar')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}

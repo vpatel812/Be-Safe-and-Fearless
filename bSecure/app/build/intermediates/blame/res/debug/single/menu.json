@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\menu\\widget_layout.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\menu\\widget_layout.xml"
+    }
+]

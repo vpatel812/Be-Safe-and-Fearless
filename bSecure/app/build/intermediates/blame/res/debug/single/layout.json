@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gps_activation.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\gps_activation.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\application_settings.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\application_settings.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_registration.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\user_registration.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_splash_screen.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\main_splash_screen.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_green.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\fragment_green.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yellow.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\fragment_yellow.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_red.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\fragment_red.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\Android\\bSecure\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_contacts.xml",
+        "source": "F:\\Android\\Project\\Android\\bSecure\\app\\src\\main\\res\\layout\\listview_contacts.xml"
+    }
+]
